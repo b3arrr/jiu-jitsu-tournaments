@@ -1,0 +1,12 @@
+:root {
+  --backgroundColor: rgb(255, 255, 255);
+}
+html {
+  font-size: 16px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--backgroundColor); 
+}
+
+h1 {
+  font-weight: 800;
+}
