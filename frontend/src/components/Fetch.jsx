@@ -13,6 +13,7 @@ export default function Fetch() {
         .catch((error) => {
           console.error('Error fetching tournaments:', error);
         });
+        console.log('The useEffect has run');
     }, []);
   
     return (
