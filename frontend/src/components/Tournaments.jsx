@@ -1,7 +1,7 @@
-import TournamentBox from "./TournamentBox";
-import "../style/Tournament.css";
+
 import Header from "./Header";
 import { useState } from "react";
+import Fetch from "./Fetch";
 
 
 /* const location = new map();
@@ -22,7 +22,8 @@ export default function Tournaments() {
     return (
         <>
             <Header />
-            <main>
+            <Fetch/>
+           {/*  <main>
                 <h1>Upcoming Jiu-Jitsu Tournaments</h1>
                 <button onClick={addTournament}>Add Tournament button</button>
                 <section className="tournamentWrapper">
@@ -34,7 +35,7 @@ export default function Tournaments() {
                         />
                     ))}
                 </section>
-            </main>
+            </main> */}
         </>
     );
 }
