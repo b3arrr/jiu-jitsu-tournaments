@@ -27,8 +27,10 @@ export default function Fetch() {
                         onClick={() => (window.location.href = tournament.url)}
                         className="tournamentBox"
                     >
-                        <p>{tournament.title}</p>
-                        <p id="tournament-date">{tournament.date}</p>
+                        <p id="tournament-title">{tournament.title}</p>
+                        <p id="tournament-organization">Organization: {tournament.organization}</p>
+                        <p id="tournament-location">Location: {tournament.location}</p>
+                        <p id="tournament-date">Date: {tournament.date}</p>
                     </li>
                 ))}
             </ul>
