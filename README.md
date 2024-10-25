@@ -18,7 +18,7 @@ The Jiu-Jitsu Tournament Scraper is a web application built with React that fetc
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
-- A backend API running that provides tournament data (if applicable).
+- A backend API running that provides tournament data.
 
 ### Clone the Repository
 ```bash
