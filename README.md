@@ -23,4 +23,3 @@ The Jiu-Jitsu Tournament Scraper is a web application built with React that fetc
 ### Clone the Repository
 ```bash
 git clone <repository-url>
-cd jiu-jitsu-tournament-scraper
