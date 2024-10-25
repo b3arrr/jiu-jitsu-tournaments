@@ -10,8 +10,8 @@ The Jiu-Jitsu Tournament Scraper is a web application built with React that fetc
 
 ## Technologies Used
 - **Frontend:** React, Axios
-- **Backend:** Node.js, Express (if applicable)
-- **Styling:** CSS (or any CSS framework you are using)
+- **Backend:** Node.js
+- **Styling:** CSS 
 - **Development Tools:** Git, npm
 
 ## Installation
